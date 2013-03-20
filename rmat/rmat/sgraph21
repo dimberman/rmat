@@ -1,0 +1,2 @@
+The number of vertices is N = 2^SCALE, and  the number of edges is M = edgefactor*N
+Usage : ./rmat <SCALE> <edgefactor>
